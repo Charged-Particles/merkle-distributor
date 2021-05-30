@@ -15,4 +15,9 @@ const json = JSON.parse(fs.readFileSync(program.input, { encoding: 'utf8' }))
 
 if (typeof json !== 'object') throw new Error('Invalid JSON')
 
-console.log(JSON.stringify(parseBalanceMap(json)))
+// console.log(JSON.stringify(parseBalanceMap(json)))
+
+fs.openSync('./scripts/ionx-merkle-root.json', 'w+')
+fs.writeFileSync('./scripts/ionx-merkle-root.json', JSON.stringify(parseBalanceMap(json), null, '\t'), 'utf8')
+
+console.log('Done!')
