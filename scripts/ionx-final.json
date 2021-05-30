@@ -1,0 +1,4327 @@
+[
+	{
+		"address": "0x9fdd726daf27dfd27332d7b5523288caead2d3ed",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0x86ff3399aeb9fe768fc2d3ad7ee0d6c5e8eded69",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0xaf60272d715290a8d7f7950c2b90dc7554239c27",
+		"earnings": 11183,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xa8cf816aeb76b7ac28d0dc36c79d5bbe362a18be",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc82a75d564521306e7ee9ebd530a459292c45ae7",
+		"earnings": 11183,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x31e25f491f176d85af3f9c54a56855260561a6a8",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbe30819e584c0ed313bcce7ae62f1e953952a941",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6288b0ad83b34f031b4fb055dfd8511cf486a10d",
+		"earnings": 11183,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xb9df1ac065aba19fb4a23328784665b9b19dee31",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0x88bade0ce190b854aa4754fa474736d8e01dbdc3",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0xddb7c2a3c5332811ca42f8f3d18dc32797859e0b",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf93d4ec4cadec63a68fe13ad5bb1abed44ebb81c",
+		"earnings": 11183,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd5b3988ed0ab5ec375e51bb6fd10e205cec16a2e",
+		"earnings": 11183,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x2d5f937cbd10bd150838563a59776827527e7f36",
+		"earnings": 11183,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa214384fd96d0883a4e4c75036c2863f0f5995f5",
+		"earnings": 11183,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x97242b0d8f4022ddb6703c0d81aa4dedb5a00750",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x294b0d9ddcf935ab21544cd38aaa044fcfaeca34",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xcdca0ff427c4c8860964ddb0658658300d5fdbae",
+		"earnings": 5591,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xd97c0911c1941e4ac77626513ae55be6d35c8ce4",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa2b5553a9990197676b23c30b593ff1c25a3f4a1",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x50aa3eaefdbec5fe1fba5b419b77126475188691",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x41b2e311d89551d0a1af55491c6b2aca61e3a78d",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xeedc112db4088f698bae17e22700bc6b504b3619",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8d6878911ac30efa07c36520d8326842c9c05c99",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x27331b4d7f7e9256a4630ccfb95e46a875b1ba66",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xaecfafddc046c9f44f299ed2ac6f4c2b73cef838",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x00c0798c0df1e87069417e76b8ca4fa089d051f1",
+		"earnings": 5591,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd259f146ef6038e1e4d65939f68fbb6d9e72e8ae",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x13816f65ba8195768e6825eb774fd3c6a05a0ac8",
+		"earnings": 5591,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x72347976a61ad49c25a6be284f3d9f189a2b6289",
+		"earnings": 5591,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x491be76b1b212ecd63ec80fcb315b4b6c397674f",
+		"earnings": 5591,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa33c7f924399b59a8ee627388a108beab5e12eaf",
+		"earnings": 5591,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x3e099af007cab8233d44782d8e6fe80fecdc321e",
+		"earnings": 5591,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x5af94a82ca028dc800a93ea4084a1f12abc4fcc2",
+		"earnings": 5591,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x7796ad38e00e3717759ee7071067351edd684175",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x40e14b90e66b1d694f425579118d0dc8ef1dbc91",
+		"earnings": 5591,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x8ec229d4c95138f74bf768d036ad5495c217622a",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x47640c1cca02c8209e989e02625e303e0a52406a",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd6ddefe655a2b4e60dfe9ea4b36f93aee36eb002",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0c8975d428e6a0cebc4ba460f7d03aba53ba89c6",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x85c0c09570c955f6e07522e9ad6041716cbbb7fe",
+		"earnings": 5591,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x1a8ceaec12a3119c8a7c0c54399f5529274f9a00",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x884b2737f355e1ae0c88609c10bf7bc2f761f815",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x81e12dfe31388ff1d2c976b9d97fba707a8feb28",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6801c926733eed08210738986a8c56414125b1ae",
+		"earnings": 5591,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2f0f0952acec560036206e8edbff41c1402caa6f",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc2e6cdea0ec2a591f23af976976be70f6b58a1b4",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x71fa1cf988eebc6c0a2d115135d030f4f2820f2f",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0c4314652d9da2090ec783811096f021fbe595d8",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6625a507cb29cb8086cd0f0809cd821c4f787adf",
+		"earnings": 5591,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x855077948a322fae1c090f5d67a8cabf8daa0016",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9ed6952dd427a2b38f7593d60dea88703dc292ee",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb2d28a8b2e1a2959e996c867a8a717704d43fa9f",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe317b8cadae5c70a9bb1b19916c923f560047f4c",
+		"earnings": 5591,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4d17ee1745cc2fe8aabd8cddbc9476844c5d1d93",
+		"earnings": 5312,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb50002128b8f59d94a7e0cc78ad6191fc2517f2c",
+		"earnings": 5137,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4f50d47d20380172746527bbeaa274940c38efac",
+		"earnings": 5032,
+		"reasons": "user,grants,leptons,protons"
+	},
+	{
+		"address": "0x1530fc137f35b1b02299127696ed48bd1097b98d",
+		"earnings": 4904,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4085e9fb679dd2f60c2e64afe9533107fa1c18f2",
+		"earnings": 4893,
+		"reasons": "user,grants,leptons,protons"
+	},
+	{
+		"address": "0x50423f8fbbd7cf5499b9b70bfc191a7bd01a9d2d",
+		"earnings": 4876,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf9728b826eaf5a654a3a61df25be6920d2e7b1bf",
+		"earnings": 4752,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x7d21befa9623c8e2442b4a6d76a155ecf1b189f6",
+		"earnings": 4752,
+		"reasons": "user"
+	},
+	{
+		"address": "0x21cf5649ee1a9362202ebff266ef7bbc8c26a917",
+		"earnings": 4513,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x8ce82e6841a20b6099d162f58061c0670dd37cb4",
+		"earnings": 4473,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4cac902de30f930f1b01c3a96fb5b3ea061e2577",
+		"earnings": 4410,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf3d9281fa183b74f32b96e1c5244596045f4ede8",
+		"earnings": 4226,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x71296114722AFA25733308F61Df69DCe440c4930",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2F992F89d23C5FA5d0D43A342A657E17906158d1",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe70683320ad861B97Ce4136e192FF5f4AB91937b",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xF0551cE3AA83D7ac64E162F35088Aa64CeC149Cd",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x07f05295Da768b326452f7a38afe5b6A993705bd",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa91011513aCe22896a091EcfCc0AfAA4615730A3",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xE26b00335cDBe5aBAfEDE214b97E2b02cA96541A",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc5bf56E2F4393e10802355268e287874845b070C",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2B979CF3894304cA8E4C9ee663eCAe1f8A232dCB",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9558f0Db6A596326B5Fc4Cb08bC8e54DEcBEE21C",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc17AE05549c1a76756D035d6757940Ae75d092eB",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x91ddcd4b2F4c16dF62e9876C6311d8b0543217c3",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3cEC0A62867F11b36149a4087ADD0cC4AFE8cB5a",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6aa23308A8E3e56d3f47D9e25E454952fA1Fd41C",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6EfB9a30BED98B89da34dA9A4AA782C8253Aa962",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xA9D29206B5D1b6610910C1a979b1DFd7bA11370c",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7A4E7a9C7E0Ba65205545112F126b0634A8D49FE",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x09053b42777Fb684208dB987512112991B0195F6",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3D0Df5c05781785190CE42447f8D253846Dc45b3",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x593A70d4B2D8D495FC4E24d6e20eBD33fBeaC5Bb",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa0a9bf24d8b23DAD932fE1587472e71D22011B61",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa5c3A513645A9a00cB561fED40438E9DFE0D6a69",
+		"earnings": 4193,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x6ecF67485948687FDBF6007BA241e4265ccEc359",
+		"earnings": 1369,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xacda2babfb23f495f7cc0688f15134fb3129898f",
+		"earnings": 3410,
+		"reasons": "user"
+	},
+	{
+		"address": "0xBe4D477674BFcaB31c580ECa4f9a79212EB06EC9",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x1bf591215d8803d1e86129ea0be4e9bafcc7a4e2",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x25b0b4e684986115362c754c0c59da2ed5ba8721",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x343792a12d2affc4cefd876db360109c2a909363",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x632551e5f5baa68b7b9347f0d774f964f05ba910",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7e333ad826395d09230e0e6463f986a1f90c6a7f",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7ff34f2baa9bf80074ac317c8c5b0d66c40f6eb3",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8d75971eeaabb3b6d30398451539ae1542dbe4d9",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa2d495eed296b33cc5fa465c29d701f8ee9a5bdf",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xaf500c977b5540d54a9c96001eaf413eec19afc6",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbe183c1e66066324dd0d286bf8185eda553fa603",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc1adc19396ac76d63c5b20592f7a2e785215e75d",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd3aaf1c31ba8fa205aa9c5bf199546ce0aef17b8",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xdbfadb1c177f42ac09ab9a7294b6356ba0891ee6",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe16b3c7b9900fdaa9d9439ca3dc92784dd163821",
+		"earnings": 4193,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfba2c2bbf977eda19ad819bb46787f4c91d1ffad",
+		"earnings": 3863,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x38947bd2ac7e0484ba208596783efea043e0ceb3",
+		"earnings": 3733,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbc60aa031a9f34bd7992c99eae5e2c4dd1b5dbc3",
+		"earnings": 3543,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x6fd155b9d52f80e8a73a8a2537268602978486e2",
+		"earnings": 3251,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x0eb6710009242c20477b0b4501a54506f32470c6",
+		"earnings": 3199,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x207ac8e8b2db9bec1b53176f26fc16c349363309",
+		"earnings": 3199,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4e7d1c72c1a8e3d58bbc1a37079f2dad1153bf96",
+		"earnings": 3199,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x3f58588b59da010031dd8a355dcd7de229663ebf",
+		"earnings": 3103,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x3735b36c3dd6546c7c5300488338c8ff2763126d",
+		"earnings": 3092,
+		"reasons": "user"
+	},
+	{
+		"address": "0x55e390ba832b062fd369c9c6f4717b13cff3d59b",
+		"earnings": 2935,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x6c37148710e10d07522b4754d336e49dab5b1167",
+		"earnings": 2935,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x752e17d23a0926e0144aeb42e9af4ba61f036e15",
+		"earnings": 2935,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x40bf35f2f029fb15bc903eeeeb647f38564b2552",
+		"earnings": 2851,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0061bbb10490c2ce465bb76e006508cbcefd73ac",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2b47c57a4c9fc1649b43500f4c0cda6cf29be278",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x358a906ca407a35de33b930aa7cf49a301a4def1",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x471dc76b9d970ed3ed8e1f0d348c711f88ea4634",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x635820e2a365566ade8ea119a1869ef94d618d92",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x663d3947f03ef5b387992b880ac85940057c13e3",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x883ac6dd74de32059f43ca7481cfb6e3a1599bc9",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0xcdf4c391f92c88a32b6c6d9d01f765bd49e704b8",
+		"earnings": 2795,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xdc5f968797fd01900cfc4b5d53d42f431221529d",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0xec0b4164fc2e0ce1e116a0cdf8186ea96434d678",
+		"earnings": 2795,
+		"reasons": "user"
+	},
+	{
+		"address": "0x05d806435c6dc9b13c05784ac5fa3425d4ff867e",
+		"earnings": 2691,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf7e0d6b3dc9a831b497c0cb2007b74fa61215bb1",
+		"earnings": 2650,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc5c5b53438a7fc9cddea4f0ded2d12fbf75b6c76",
+		"earnings": 2516,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x63bc9fdc6b27e0c67a1d0478f9c4d36bc08a8c39",
+		"earnings": 2488,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xaa9f2dfdfaf058b26d19d1334347b516b6576ea9",
+		"earnings": 2378,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x721931508df2764fd4f70c53da646cb8aed16ace",
+		"earnings": 2348,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf3e6ba583b960f7a8b395212fdce8a92a0df912c",
+		"earnings": 2348,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4171d6f04043d5f9ebe04edd25f7a251d3fd4f23",
+		"earnings": 2341,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe03fea52f36c443fd7e9625aea713a8461c180db",
+		"earnings": 2236,
+		"reasons": "user"
+	},
+	{
+		"address": "0xff0cd6a606497f541d7b5a1332d8a6736ddd229d",
+		"earnings": 2236,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfe11264bac75b46402eaa3981aca9b24fdf81ac9",
+		"earnings": 2208,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x9e8b401a1173539a92e640629c0e004a9803dfb1",
+		"earnings": 2152,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xad4edf48a844f9ba5cd7af0c86dd8f3a09a588a6",
+		"earnings": 2152,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xaf9ff342099f2d91bcc02d186a24049d6a64c8b0",
+		"earnings": 2152,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xfe8408904daf95a2079bf808b6c5c5ebd58d5319",
+		"earnings": 2152,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x128f19a6fdd737b0937627738313e8bf5527aceb",
+		"earnings": 2096,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x7565deddcb83a14b185eb9520914bb918cdfe983",
+		"earnings": 2096,
+		"reasons": "user,grants,leptons,protons"
+	},
+	{
+		"address": "0xd6b06ded7655a80b383ddfc14533b2d2febc55b2",
+		"earnings": 2018,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x16ec8a7f9d21ea94be12d4765ad2e5597f82c9fe",
+		"earnings": 1969,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x4c9d4a1310639da40bd47b68553ed6eb366db22c",
+		"earnings": 1957,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x00000000079a2bf7701d039faa681954b428ac43",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x00290ffc9e9d19bda7b25c6e44d8adf55dfbf2dd",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x169efe5ffa1011fd90ee8438785e49066ed8ed31",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x42194577e54a48cdf26de9f506190961fd0362f1",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5a9952d56f0f4bd32e53478fd3e56d91b9545fae",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x765b4fbdc7740a8d4c0a69fcdf600ea99f3f1efc",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x84ab6aeda45c85b910c363a454c5c0e93d8691a2",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb45b74eb35790d20e5f4225b0ac49d5bb074696e",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xc155f9bd6b71e9f71d0236b689ad7c2c5d16febf",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xca3cbb8090c0138070ca691f745e8bc92fa8df2c",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xe22c1d3b82b028eb0ddf481f64df9a077c25278e",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xee402489d83e2b22d496910f8c810d35a3ad7b25",
+		"earnings": 1957,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x12d964f702db7b301765c0066a04ec4fbdb59e3a",
+		"earnings": 1901,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xef2211dfd2e287a0a8d6505c6247bbe0db74ed91",
+		"earnings": 1901,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x910b48c25afc5b2a998458b62d467d482eca74af",
+		"earnings": 1873,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa10394561182e2494da3474c4a338024ad075b5e",
+		"earnings": 1852,
+		"reasons": "user"
+	},
+	{
+		"address": "0x04f62e859bc27e82a59d8db62929d516ad01103b",
+		"earnings": 1845,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x948c89c0cd3f5d064ba248f15cc4da1b9f19b97b",
+		"earnings": 1815,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0eebd8fcd58a5db8eb3bcce11125022b4170f6bb",
+		"earnings": 1677,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9127b83b9144f8e8fdc884deffa89bd72ba85045",
+		"earnings": 1677,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9f18fd4eaefa29b9677670a7b59483c18419a4fd",
+		"earnings": 1677,
+		"reasons": "user"
+	},
+	{
+		"address": "0x149c71d8ab708a29cac5df3a847403c7810b2c2c",
+		"earnings": 1645,
+		"reasons": "user"
+	},
+	{
+		"address": "0x29746c9d6b317c6df26ac1751d6cb03a55c1b8d5",
+		"earnings": 1573,
+		"reasons": "user"
+	},
+	{
+		"address": "0x37b0e438a14a4f6d7d54d52c7c3017921c25eb4f",
+		"earnings": 1573,
+		"reasons": "user"
+	},
+	{
+		"address": "0xeee500c02d520164ad357352c0509eb44f19bec5",
+		"earnings": 1573,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf984cc06bbc4a1bbd07bd28fd773836849551906",
+		"earnings": 1573,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd3e2e76e4ab0322614fe7aaa3be0b04bed83d0d0",
+		"earnings": 1565,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8f283dde18815e220401470fc083c71b52ba7833",
+		"earnings": 1552,
+		"reasons": "user"
+	},
+	{
+		"address": "0x049808d5eaa90a2665b9703d2246dded34f1eb73",
+		"earnings": 1537,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2e0d63ffcb08ea20ff3acdbb72dfec97343885d2",
+		"earnings": 1453,
+		"reasons": "user,grants,leptons,protons"
+	},
+	{
+		"address": "0xa29fddec9c36bdd680d3f5867735ff8949a7f15d",
+		"earnings": 1381,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x0c88f0f125c59cad35c704b8044107f2e51d28fe",
+		"earnings": 1370,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x5e58538cc693b1099c68d7fef963c1f148dae8cb",
+		"earnings": 1370,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xfd282d9f4d06c4bdc6a41af1ae920a0ad70d18a3",
+		"earnings": 1332,
+		"reasons": "user"
+	},
+	{
+		"address": "0x63f42bfc17b6ff3a7f487c406b8e006d0d4970c3",
+		"earnings": 1314,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xfeec05a103f3ee7c4c42ee1d799b39a5b4c62dbf",
+		"earnings": 1286,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x01a56caf0f48acc0afc15e68e62f010a122e3f7e",
+		"earnings": 1258,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x6c31b772cc57cac99c85d2d0b0df8e54b07a7a55",
+		"earnings": 1258,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf6f48c8c10338025c719861cec22c570a17dfc0a",
+		"earnings": 1258,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x92ef45cd7b12329c0fa6ba2a7751cfe38ecbe322",
+		"earnings": 1205,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbeae36aefd7ae78ac1d59981bd2969d84eb5430c",
+		"earnings": 1202,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x1164fe7a76d22eaa66f6a0adce3e3a30d9957a5f",
+		"earnings": 1174,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6186290b28d511bff971631c916244a9fc539cfe",
+		"earnings": 1174,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x83c0ed34e4b8d2a197b79a7ea401b9a37e1a90bc",
+		"earnings": 1174,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8a83716acd66d9e1fb18c9b79540b72e04f80ac0",
+		"earnings": 1174,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9c99face0f1dc9cc24a7d986111bae031d787386",
+		"earnings": 1174,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa2fcc08aad98b17094d8215b8d75b7b73a1337d3",
+		"earnings": 1174,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xdad130d6290fa6391f8df66e85ac0957031a3b1f",
+		"earnings": 1174,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+		"earnings": 1150,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xa64ca83a5d676929accd4d98eec4f21d414a201b",
+		"earnings": 1147,
+		"reasons": "user"
+	},
+	{
+		"address": "0x584313319d0bfead2a9d98a7154f5dcb5a62887f",
+		"earnings": 1146,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x022ba42a01306a42b02121e3222768b2545b7e97",
+		"earnings": 1118,
+		"reasons": "user"
+	},
+	{
+		"address": "0x11f9880e0f11424d1b52cb5b78ccae98beb0f857",
+		"earnings": 1118,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2397d082ee03799e43923f3cd4da3188a0529bbd",
+		"earnings": 1118,
+		"reasons": "user"
+	},
+	{
+		"address": "0xacae031ff93f76fe15f77e877ab89e2a09ae4d70",
+		"earnings": 1118,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc3868cf23ea287743faeb50c6cb5eb6c05f7f05b",
+		"earnings": 1118,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfe19c6daa8d07a87d6a80b5f977dcc3087462724",
+		"earnings": 1118,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3a3355805181ba5752cb52cebe8c95c0f3ed3d61",
+		"earnings": 1102,
+		"reasons": "user,grants,protons"
+	},
+	{
+		"address": "0x945b63b3404f501aa8f799073a50283846760d4a",
+		"earnings": 1094,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2680a2a2a978e044c093b11d7765aea52868be44",
+		"earnings": 1083,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbfb86fb524da4670f49e41f5274778d14228594b",
+		"earnings": 1065,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3df364ed7e8a887f7f9c240f7e281a4ea05ce03f",
+		"earnings": 1027,
+		"reasons": "user"
+	},
+	{
+		"address": "0x1426e0dc259e1a6d0da470661ba54a21195ae3a6",
+		"earnings": 1014,
+		"reasons": "user"
+	},
+	{
+		"address": "0x04c19ba52106efeec2b2a360d2616fec6b934fe3",
+		"earnings": 1009,
+		"reasons": "user"
+	},
+	{
+		"address": "0x54f54ac68d92aaef256550957b4d8f9d5fd59604",
+		"earnings": 978,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x62a32ea089109e7b8f0fe29d839736ddb0c753f6",
+		"earnings": 978,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6621295a7fadd3ab78ae6915502bd50fdd5a1491",
+		"earnings": 978,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x670e9bf3aa6a024249d0bac4a608eba05c21fbd4",
+		"earnings": 978,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xbac42c9b32e574f41b86e20fba0cf479a5a1ca58",
+		"earnings": 978,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xbc8f1423b7b0abf63a2259276e2a205b2cd8fc61",
+		"earnings": 978,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xcefdb5f635bfc913d12e6eac3738e92b1681bd65",
+		"earnings": 978,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8df0ac71c54ef76e8674779b3d5c7808b9916b3f",
+		"earnings": 950,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x5d4dac7968760a65cda5d9edf33cb55f4d7a5727",
+		"earnings": 934,
+		"reasons": "user,grants,protons"
+	},
+	{
+		"address": "0xb276a9a6e7414529873af8b149369602c3a6206c",
+		"earnings": 922,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf5dcb2a47f738d8ba39f9fa2ddc7592f268a262a",
+		"earnings": 922,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x490a4fdc7a1a35b5c2c3e9418dce793fce027bb2",
+		"earnings": 894,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7a13bfc2f21809a0ec1c8f787dfa5136579eb6d1",
+		"earnings": 894,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x81e5cd19323ce7f6b36c9511fbc98d477a188b13",
+		"earnings": 894,
+		"reasons": "user"
+	},
+	{
+		"address": "0xed2c2cdec695be3a4dc421c1a8a6756dc5a927b6",
+		"earnings": 838,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9322c6ccbce9fcc9bdc45fe2830704907330454d",
+		"earnings": 806,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xbeb3502e6ea7603c57550d23ad93e786261a6272",
+		"earnings": 803,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc7adea0d6b7c4a19d91e8bb825831e7aca770755",
+		"earnings": 790,
+		"reasons": "user"
+	},
+	{
+		"address": "0x10283a37f043228986f49f45e0825403ccf244b5",
+		"earnings": 782,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x3b9ac3ab6a1ea14c4e8ed8dc379d6038891cce97",
+		"earnings": 782,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x65efa753c8e275b3699a3c5008f70f4f41a2dbc1",
+		"earnings": 782,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xacad95570031453be812b88da058a074c26e3535",
+		"earnings": 782,
+		"reasons": "user"
+	},
+	{
+		"address": "0xce0b4bd6b94707c4201ed2c6dcd242dde9b3c9b0",
+		"earnings": 782,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd9d50ecd31ae03c8d11a247c14895c1cc6669cf0",
+		"earnings": 757,
+		"reasons": "user"
+	},
+	{
+		"address": "0x92cfdceeb276a6bc2f13b6907cd8e6ac245dd0fe",
+		"earnings": 755,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa36efdb124a966f3524dd1e614307e1eec9ae336",
+		"earnings": 755,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa6e615df1824cc71eb7ae5a823c5808ea2b196fc",
+		"earnings": 755,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xbcafdd642118e5536024675e776d32413728dd08",
+		"earnings": 755,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf7229519d48cadd0748d54c15df8e6434aa66cbc",
+		"earnings": 755,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xff251ecf1f9c69e56682a8bb76fa74c86918e8e4",
+		"earnings": 755,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x167539702b5501aadd9b0b85e53532fd57cc71a9",
+		"earnings": 748,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x14897356c5cad74381f76e19cfb6ece2ae484245",
+		"earnings": 747,
+		"reasons": "user"
+	},
+	{
+		"address": "0x565b93a15d38acd79c120b15432d21e21ed274d6",
+		"earnings": 747,
+		"reasons": "user"
+	},
+	{
+		"address": "0x86f7649c5a60755d8d76eadf94241ddf3d29a0f2",
+		"earnings": 747,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbc11bc8af3a3dc2be5c789190d210da7d6ce600a",
+		"earnings": 747,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc576a1f2fe5c138cee582439ce87d6c9af2d5861",
+		"earnings": 747,
+		"reasons": "user"
+	},
+	{
+		"address": "0xea72d24388b8042f6b5a964addfb0824e64b802b",
+		"earnings": 746,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb42ff0fa9f6a9a0f814455c13a60a1f9088ba7b3",
+		"earnings": 734,
+		"reasons": "user"
+	},
+	{
+		"address": "0x48d2111fcee462f8d7e56ef7057b0006abe2537d",
+		"earnings": 727,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x68b18d388994336f341b4997360bb45f9f8701c9",
+		"earnings": 727,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x0e64cbca254788df4a8d29e3721d077d91d0d92a",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x247df895a6a2dfc6211c3ad9a70ea82bb2ab7658",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x3049c80bdd527128eb4e7886ab1db1e8042a8eb7",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x620dc24daaaeba189c0ae8eb2aa45bbca7fe4e3d",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x6749c7196f1e1e02badd04fb124d486555db0d16",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xac1b80e06f970879bfb8f2b92b59442593f332b6",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xcb24e0487cc832c11d292944eff1e4928360322f",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xdb33e85224b11765eb1f1dd81c3af181ae975962",
+		"earnings": 699,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xc1563bdf57bdb990c89070aa72cda57fe8d6913d",
+		"earnings": 671,
+		"reasons": "user"
+	},
+	{
+		"address": "0xdf8eef2a68775db7fb3179e243231e06d7d75113",
+		"earnings": 671,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x9657b94d5d0a7c58cd2c59ac17969e754c29ec29",
+		"earnings": 643,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xccc734e6081c69f6047d692c275af6dab862863b",
+		"earnings": 630,
+		"reasons": "user"
+	},
+	{
+		"address": "0x086f0f5d2cec81f9fd69332a2aac8872188fdd8d",
+		"earnings": 615,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x8bf03086eda24dbe2a73964017c8d9cd592de5d0",
+		"earnings": 615,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf9504cabca24a781142f22d5daa6d85881ca5f45",
+		"earnings": 615,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x85c7199b5a36e87956cca466233de6710e849d6d",
+		"earnings": 599,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x000e8c608473dcee93021eb1d39fb4a7d7e7d780",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x09c4a183060ea5a383afd1faed4f7685c05ffaf2",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x0fc5418364a7de0aca014cd24d88d95138d27325",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x16a5779afcc84e5fb7c8e9ca615b65e94e165f0d",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x1a5b3eb121846c9505e271067f6fef7fa7ebb5f1",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x1e815a8188f1b84564577c1c998f7e6b4706b752",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x256530ce969f76ece1cf66998aef0eab6a940fa8",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x30d9898afb994e489ad138e0e85d1a90c14d53a5",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x3275dd067148cf176e636bcd665069028bda8ee9",
+		"earnings": 587,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x328809a567b87b6123462c3062e8438bbb75c1c5",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x398a20f8a91a7406343e75f4ac1eaad6902d3862",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4059e94f431b2c48373c3cf962b257b7a4b1dc63",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4703bf8ddf7acf99eac0cd87eec06835cb1b3586",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4d864b0ddec2a861506c8baa676e2d99a4c30a84",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4e66c4fdc45a05a3df9b0b868288b878ef94df67",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x562a01eb1c18e167d3b26504bfa08edb68c5681a",
+		"earnings": 587,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x5ab0e4e355b08e692933c1f6f85fd0be56ad18a6",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x64257b8a791fcf74400b828b22ff0f3a015b4ab7",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6e426ca3309b764e774b015cb21013cd3a15242c",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x7193b82899461a6ac45b528d48d74355f54e7f56",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x74f6573bef82a6e8791f43a1a16e19345b144bfa",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x7dd79301dd08f69e00d24bfa5fa5a8bca16f360d",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x808a023b72260170c95d831f589a1ae0dca1e43e",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x91a9b4da163a1f248c92dbd262ad3e95e042c87e",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x92fde24b25e7d0dd83abea05bf925e47044d649e",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x93ca9be109defbfe5f6ef66f4eccd7f838c8c3dd",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x99c16d5f932ceccfaf53143e85ae18f03256205d",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa691be7fc5cda46c9291bb38da447ef077c11fd6",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xab30f11201d6d53215729d45dc05a0966c237922",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xad27c490efd068c35a66fefcd953a8d91dc987b2",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb2f1a288e6bf497e3b41adf23a4a89896069d1f6",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb5ba9e2276e5a229e396647ebb64259fa7429055",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb6685d3849f2932c89c030f49e1bd8a994589b1d",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xbbe476cb5778b819ae335873882b3175ba851240",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xbe7516aef9d60c11f9a8d870736137dbdd8a22df",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xca5f4c901182799fd63b23b874e2712ccaaaaaaa",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xcd7f6b72049c3b54416f9f26392cb271e74ca3fd",
+		"earnings": 587,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0xcf421e1040c158c20a2c8645fb0c4eed19d93aa8",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd21b6b2ae0254060044024dc7e6929e8e08f07b9",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xdc200f6fa36a0fb8bcb1cd3d78dbd4210c61f65c",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xef80395b4943e1741c92a6f2119eba58cfed889a",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf5ba9563e850e905e91f7c9008dbbf89982cfa4a",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf7476db5b717ac661c027e684456115ab1e728c3",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf986678318fccf839f4b1fa3a522c84234fc4495",
+		"earnings": 587,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xe085327c5ad2f77147f10973fed45fb19d734f7e",
+		"earnings": 579,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0b708c4596716e2d9d1a65f2e608fee3b587e09a",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3199cac18ad179a43b2d8df5714b28d5498af457",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3b5481a8a0bea65915e55047af8c077a1c216d17",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4796ac73c39bd3c34446c144c54e8e33c50cb496",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7355d742bce6cd3769069cf5a8b8dd82517c339e",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7b624ad1725774255a7048f87235385c88d46ce6",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9650f4fedd1e6ce63621479a4bf5f4d743e6f958",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9d143366d79214d95a53f00d4656dab19e27ea58",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb2049923df2efff9baad22818bb37da800363a7f",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb6c1122b9d3f431ef38ac361d6feb92342d0dfaf",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc63727337f7911c72a897ceecced00a940e3388b",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0xef5820519bafad83364757fc2814a388728caa67",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf23f8c4ba6921b67c38f83bb4e3e621e21c3ad05",
+		"earnings": 559,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf36ca34a56c57464a7d58d268d96b23d07f408e0",
+		"earnings": 550,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbee1314a430d80aea224860b020dce7ec25eed98",
+		"earnings": 531,
+		"reasons": "user"
+	},
+	{
+		"address": "0x1de6eec2c08830bbec7884f1fc6b502521ae2e54",
+		"earnings": 531,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x38e123f89a7576b2942010ad1f468cc0ea8f9f4b",
+		"earnings": 531,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xa5a37c94c0127679052938bf80795c8452e9379f",
+		"earnings": 512,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xc7f83a31fc7722ece743b093afc4bb62138873ae",
+		"earnings": 511,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x4ef1a210a74fdfd9cc7507924e918b0f5c392b24",
+		"earnings": 503,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4093eed436bd6a5320316af7de30059a58f70c4c",
+		"earnings": 503,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x79206b9ee1b48ad2ee925ac0f119a4de93509f97",
+		"earnings": 503,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf57c198a7f337867b7c2d5f591e8965622ad1491",
+		"earnings": 483,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd061cbfcd7749558f635dea77428f83d15455f4f",
+		"earnings": 475,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7f35c86974d3176f3352191ad99029ec1ceb00e5",
+		"earnings": 475,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x8dea9139b0e84d5cc2933072f5ba43c2b043f6db",
+		"earnings": 473,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x79bf225fbfd40f78b1878a6d1eec1bb03df92aeb",
+		"earnings": 455,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x0eeb15cada5996ae022d72ef5a1cf3f6a4f3a017",
+		"earnings": 455,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb66f8a0da457b91d5ca3d9f0d679783a28e70cb7",
+		"earnings": 447,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4a4f1c998b89c0dc000983ffd997420dad282ca1",
+		"earnings": 447,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5da5f4c020f856abdb168fd35c957d6006ba2ede",
+		"earnings": 447,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x9e0ee8cad01a4dfc4167d077b0e5227e0090141b",
+		"earnings": 422,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x3070f20f86fda706ac380f5060d256028a46ec29",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0d4ddea3849c54e16c85cb4354943dc876e05552",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x1ac5d648599b9767b1a1bd13eb8bf082b4c157c2",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2cd280e6b9217aa73fa3dfb11106912a66b277a2",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x39220f65e671128827ef5b2c1702fab8d9528e2e",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x62f6ca6594049a5510c1eed5efe5bd667ee61013",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x67c0fc4b0490ab7e76c08c2bbd30fac0059bbc7a",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x95ad18082718659a207fa82146fed9217ae71588",
+		"earnings": 419,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbb9968926fd27ce2c4f4c57e4e4a5d7eb3f5c477",
+		"earnings": 419,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xdd22db22c2b6d18c0cec44bb0489d207c409f3fd",
+		"earnings": 403,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x04c1c15a1554891fb2dd7c4939e7d95d06ee253f",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0eabffd8ce94ab2387fc44ba32642af0c58af433",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x13fb7d72e264bcfc1335c5c254ff29275cea04e9",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x1a008ebd7c07da5109f295a0106ae03e4f3c5d65",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x1f374f5baca9d3b24a32f779a5cdd8dc0cff3890",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x22a69bec28553c8d7c0fd00c0c00afd8e58af0f2",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x297bf1c734bf29948ace9a4a750d27ce2649c8ca",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x30602250c5f1fcba5407e99b1dfaab992ea4ffd2",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3839acf1ee7699d1f46b1be840d8ad8317fdf757",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x388256b63ec457666be4c57952bb6fcab6056b10",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x3e3672b23eb22946a31263d2d178bf0fb1f4bbfd",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4314729f92230bb4c30b5a1be1160d468427e321",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x43a5c1331375f1f34bd774ecaee51501e9ca2db5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x442dccee68425828c106a3662014b4f131e3bd9b",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0x453c126ca7f7a0a5c0c0dfb31bf386605056346b",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x465dca9995d6c2a81a9be80fbced5a770dee3dae",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4744cda32be7b3e75b9334001da9ed21789d4c0d",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4b7c0da1c299ce824f55a0190efb13663442fa2c",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4c6eb76d262cc6121843f74e1d18036adf03f1bf",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4ca95da11a01a9be666a9f5523004563146fc746",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x50664ede715e131f584d3e7eaabd7818bb20a068",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x54becc7560a7be76d72ed76a1f5fee6c5a2a7ab6",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x56b22273232000365e12ede2aad48a9e80e81031",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x59796ffe66cd96ab5ecce919fbd530ff5686c2fb",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x59b6a8caecb5f651b717f1ebbe09ed5ba6ed1a96",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x5b93ff82faaf241c15997ea3975419dddd8362c5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x5be2db6c0cf6534eb119f50c16ec7712d99dcfe2",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x5d3183cb8967e3c9b605dc35081e5778ee462328",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x5d3a427b1e7794836ad54c297de172e90377bbc9",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x5d527f20e67f3b7a9701d8f649cae241abd4fbb5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x5eb0cf5f601f7fd0816f632af338efb292b01316",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x61369c6c30ee29ebaef97f2601c9f14d86ada469",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x6ddce2651c2a073b808a475ac58cd72aaec43bfe",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x6e6bcde67769b35de70d93eefc74adb8c52cbfd9",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x71ce21a0776df966052cac4fe98d18313dd3c214",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x722553478bcd3acf141c0ddf76b7cf2d6b0ea42e",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x73baff470034f092ad9a1e2a190595aa76e76774",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x79d899379844d35a1a1f5d51d3185dd821f44dc1",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x79de94216395eafe072b8b50216b5648edb3f609",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x7cb9032844e722bef2e16a761832c59c96550898",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x82991643951f448b7efb9b0b05f48baa68eb1add",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x8e5539996a21fa05f7e553cb43d25f373ba6a1fa",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x8e77c563c2b2f35cd5560828e197e4ec57556687",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x8f0ee95b7d3a391785ee1698d943b37808064931",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x8f942eced007bd3976927b7958b50df126feecb5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x90bd59d5592204c7e65dc930558d2ab7cb435b5d",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x92531330fec4bb3fe5799c8e8e294d3dfc1e6285",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x92a0b2c089733bef43ac367d2ce7783526aea590",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0x934c3fee9ac80b6acf04f9dbe02e228c1371946e",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x9525603189bc828b3af9de9454a79d9566e6e2fb",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x95f304ac56e03d6e823f0235f4afcc1707c2b6b5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x974bbc9c9b8a1b81e92df9d1457d2df98941814e",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x99b7bbe8c39dac8eb68dc066b72a6e5a5dd84d30",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xa33d17e590ee9e0d8a98e6cf62f7df1da9d4ca82",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xa4723a67376abd6ce94f5ea2e4bd37b5c5548804",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xa4ad045d62a493f0ed883b413866448afb13087c",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xaa7a9d80971e58641442774c373c94aafee87d66",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xaaf8ec0f67881cc4a3725145bf5dccdb084aef3e",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb59cdc85cacd15097ece4c77ed9d225014b4d56d",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xb64943f4f26d837ceeac96cae86d1bab23a3414d",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xb8150a1b6945e75d05769d685b127b41e6335bbc",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xbc7a535b329c57d1f4de30c1b99e57d5982c7c75",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xc347a719b36fc1bd2c3a6919e1a8a8748541b01a",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xc3c2e1cf099bc6e1fa94ce358562bcbd5cc59fe5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xc5c38f1ca2316c3351ba91537ffc1dd80e0d257b",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xc7d0961e09ef783b02e951b3a0704236ae7cabb5",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xcb42ac441fcade3935243ea118701f39aa004486",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xcd63ddd4ef8ed5ea30bec857d71c93104f55e4b3",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xced59c0997636e4bd56aee604601f253a4b00ffd",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xd2fa59811af055e0e94d570ea7f9800c0e5c0428",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xd46f7c5b3661bb2e4a81cd1eeef7fa8acff43491",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xd570debec4cfa71849826881ff4e19f5e3dca2c0",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd9ffaf2e880df0cc7b7104e9e789d281a81824cf",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xdeafda075dbf29d98cfe50abb7f370b89a4fc29c",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xf5276a7166cfda0d68b257e27c7c8bb2e5852e91",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xf5e03b16b9f63b80b7616e399318c3b46325cc6c",
+		"earnings": 403,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf5eb2293bb18199fdf58f4f85fc9d4fbfea0638b",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xf8049c8425f9eab4e2ae9e1d950f9d3f71481882",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xfaf95953a36ed1e8f8426ab5b7eb53da246e3476",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xfd584000c9534b84b1c2d2478f927dd50785a9b7",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xfd8d06740291e7f2675bc584fc6021d488b37c4f",
+		"earnings": 403,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0xfff923f5a1016e422ddb5d5b7d3ef8152957d2a5",
+		"earnings": 396,
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x3cceddccb96ad5df74228d3ca4b8c8a3a79ab24d",
+		"earnings": 394,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xaae3131ae7876251c85f6f16e198a6aef954085f",
+		"earnings": 391,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x19fa81492d5c492f17c11d58f8573205e6cb905c",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2b19fde5d7377b48be50a5d0a78398a496e8b15c",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2bfe66759f0331066f3e7d57b3dc9a96bfc17927",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x345ae50b6e620cf0e8b7d344bd55b821b060f56b",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x461e76a4fe9f27605d4097a646837c32f1ccc31c",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4ea3588cf3f628d2f0902b2ab24843c2a3c11dd9",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x504c11bdbe6e29b46e23e9a15d9c8d2e2e795709",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x65a441c7a0607f76b3b153fde0fd2f3a920cc8fb",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x75f20b76f7709a3dfd548cfcf0278bf56a3a4aa7",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x801abde79477c69720008e273fe267806c28c7c1",
+		"earnings": 391,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x822bdb190a3239cd0378d597b09eb19a6b05d286",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8507b936f0048d2c4d9b5a5591d48d317a26bc29",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8f7d967a451e599d8f4db9168484a56a066085c3",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9868c73fe34f79498ea66564d18b349206304bb2",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9c6a5cb373b26774a3f91d13a8652db7618a5200",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9e60ac8a2d7e0339101b8a16335480322bdee781",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa538311df7dc52bbe861f6e3efdd749730503cae",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb90a59f77315f6ffa221e3320dacfbe32d72487c",
+		"earnings": 391,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xbf32356c1ea7a568fdd94bc2265bd046a651ed41",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xcee2c34a76714b98d54e65307521a43a0084ca61",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xded5d8c6b271a48f3b9ba20e8aa761a6baa2fac9",
+		"earnings": 391,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xef1bd3fc679a6f0cd296b59aff99ddc21409869f",
+		"earnings": 391,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xf8e6f23f18a04bfd481ce71ac894488568285f1b",
+		"earnings": 335,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x183b6267cb9f985a8aa7fc912672a21d644a4102",
+		"earnings": 335,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x37802bd3414a330b6446008d87852e35f2a90f11",
+		"earnings": 335,
+		"reasons": "user"
+	},
+	{
+		"address": "0x40ede963b22e506380c0f6a4fd32b17b9fdec43f",
+		"earnings": 335,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x5080fda2a93078ded890d8591aebcea7f345c492",
+		"earnings": 335,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8191a2e4721ca4f2f4533c3c12b628f141ff2c19",
+		"earnings": 335,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xb271769c54b07e33e7f9f337fac2988c404e1da9",
+		"earnings": 335,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf99f1bea3d3dae6a2ec3f2733ea8ad8025fd239b",
+		"earnings": 335,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf9c10dc0acac201388c96374e3386f568962d0e8",
+		"earnings": 335,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xff83bcfdfe13ab72331fe39df1cac42f09b2ed41",
+		"earnings": 307,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0048d02963b97445a012ad6d44bd38a0239c5b88",
+		"earnings": 307,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa7d7ac8fe7e8693b5599c69cc7d4f6226677845b",
+		"earnings": 280,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x4ca413e98a40697a45e8769c8ba4e7fe364075a6",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0x24c9d245fdfa547230388af247464389a1e37995",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0x43b97a9b9823da014d25d5094d06c72f27e5a613",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5140a2e4b1e8f39a3d06fbf135803acc75b65955",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0x520d9567cd51a1ff7babb9139ecc63d8923c3252",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5277619625b62c704734186acb0d40dfab4ebd9a",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0x82b7e42a07ed9da7c0603458ec10577b0e6ad444",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa37986c7280075fd61a1f3eec9dff9ed1577cf34",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc6b34bcec3b1254532eb830fce8248765fbd988e",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc8496e42ee2a8adc09446b5735437d9012cc3b5a",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd3761910a186a67eb44e67ba4552231a7696056f",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0xdb777b39ae2aa6c124aa1948234fa89d03c1fef3",
+		"earnings": 279,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe41155e1538f15c8c451f704c7b56b1f260e4862",
+		"earnings": 251,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0159dfc1c745dc4b10d42d2592335120f1f2d778",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x09a1a849974d021a0f74366e5020884ff73e3abb",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x18c6a47aca1c6a237e53ed2fc3a8fb392c97169b",
+		"earnings": 251,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x20b6092af3ebac8ca3de20aaa2f6c8b83e5c66bc",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2219e393932e6002f8701b2713ad753f009c258a",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x271a20481843e0244678c5ea0983e74a2285dcea",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x274833107c42fc3dfc2aedb1e28d6450e5d2184a",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x3929eff8e0feb3166992942d8b9030d95646c3ce",
+		"earnings": 251,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x39b89af8f39c19bbb2d94accb8380107b0dfd609",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x489cc1dad0e18986242095f50728703631b20ec9",
+		"earnings": 251,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x54f2c1d76cb23329f36afdaff363b28e123f76e3",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5e37b7e461beace6f0049ee50f86aac66ec78344",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x80c939f8a66c59b37330f93f1002541fd4e51aa2",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x946a000cfb2ed0f0dc7f0bde5639f7afbaa53cd0",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa018feb6840781436e5440de92f91659bce036b6",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa2b40e1cc6ba02c980e39534f5ce43fd20d8a755",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xac9f6080675235a9ab494d9127f9ab954234eb4a",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb71d05cf5cdf7a9b15b20b9aab5e91332c271c96",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xbd583a1f179302aa29a6e519ac541046167b92f1",
+		"earnings": 251,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xec5a4149f89acee3837e61d4915481ceae5016e5",
+		"earnings": 223,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x3f3e5066d6d61946530a395b25dffdcf37ec026a",
+		"earnings": 223,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x42b23bb838525d458f2b8109219ef45d229067b7",
+		"earnings": 223,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x781e0bc357252372a9444cd32a6f8cb7f6540c90",
+		"earnings": 223,
+		"reasons": "user"
+	},
+	{
+		"address": "0x83d20a4b84380e62956e38452533f86d298dbc24",
+		"earnings": 223,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0xc1c0e9750fab87ac871ea40d005063f3750fe143",
+		"earnings": 223,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xecd5e98bd002708868f36bb6daa29e16f11b98c0",
+		"earnings": 195,
+		"reasons": "user"
+	},
+	{
+		"address": "0x016cfa059e89b3ee0e27571bb0e49fb2b36ecce2",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x03828b7129d49313b2cdc966e50369b75ec79a48",
+		"earnings": 195,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0775ea2a88db33038c4069e41dda8d963b64c2a8",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x088fcf2ab9bd617f2a0806f56d87746b77af8687",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x1540f6fa70c04e5a5dac6a134d9dd03abd301b1a",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x16f1c01b4b207034f8a3ebdda33a19c75e2e328d",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x259f962e77262ee8d97cc6a112d0e0321323ea0d",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x27b09d167d8ed88563d81ed766cbd280c8b434c5",
+		"earnings": 195,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x28907f54a11f73414fcd906a1823f8f71cd86933",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2966038143c9293f063d8ef16442c0468e972157",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2a4eacc096ea4b7d8d32d0ed6c8d731cd067b2d7",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x324e9e6e602fdf1f7f50decea6cb83fff575020f",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x47ae36d1c0d2a3e39c28f5cdce31783e60f74b1b",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4a016bfe6dc98a38de8cf5a5dc61a31529402e99",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4aa3045f7b28163541b2e91d77e4a3ef006abca8",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x4e32ebe322b4743adc6c27f8b66fcd4d539f2045",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5183d153a2431d9d582f54a8b2225a3a78f60e05",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x543e998de1a95f579db70d4f2c3dfeac68e524a7",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5588bbb679e5f0533ac08be2781f89cadf85dbbc",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5c7ca6a93a46ae786d99d91ed423a91d6fa13879",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5e52ab2d84ee8144a18552a453d7b9c2d3c8c36d",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x5ee42438d0d8fc399c94ef3543665e993e847b49",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x63ee555f1fea9798f09069b4830cbaa7e6e251c2",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x67541faf53b45278837828eb52db5bab3b0108ef",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6ada527abc5754c8e60ccce37d4b97fb424522e1",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6d566267854cb2ac64e2c91f297825b7324aac88",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6d77d1af961041e35880bcf21878e459525ed962",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x6fb651cdd003a7eba1998e9c77d9ee0eca102e86",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x7d21d6f8e03746bef7fb64710c1569505f76dc18",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x7ea1a45f0657d2dbd77839a916ab83112bdb5590",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x837e9ce84df5008511e05b87a4fd5587bf7f7609",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8761e0dd63d14cf566acf4b730f3540f164b6b56",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8ca8d2cbc07edf6512cada0d2573c8f4802a1989",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8de3c79efb0a3bae779e2cc5b6f5023913fca547",
+		"earnings": 195,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8fc2709164c48bd1c9c8858b17c4f3abddd06764",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8fd3a93633dca8763eae1f0e50b8961101dc07e5",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x92b5a3f06fe24cea07a6f92aa94f2994d481afc8",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x97cd05ee9f47c6aba029c5ed4fbce8ce817586e3",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9b921fad875b06183d3992a125026c89915d71f6",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9c9190635d46c36452da89c1603216e0377e0e57",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9e4ee5137a738d218e85bb2fd0f29174f87afdfe",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x9ed80eda7f55054db9fb5282451688f26bb374c1",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa0587945d8a0618ac2e986779effb0fdde1b1344",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xa86e29ad86d690f8b5a6a632cab8405d40a319fa",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xacece2c109af6fda78125cda83c40e04dafee10d",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xae8ce6bb2b95684f57c097b407f4e9b55d9ca432",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb50b88c95d2c7fd669bd8501c44318c6b89b38e4",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb810d1238dc5e5d664ebc5d19b0fd2c28d42968d",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xba9c5381903a38ff6686a0c39512b03dac609107",
+		"earnings": 195,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xc1b5bcbc94e6127ac3ee4054d0664e4f6afe45d3",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xc2956790f439e90f018dac98b0058a1187dcdfdd",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xc42b499f9609f3c38e2f076a4885fc50e73d726b",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xcaba2231bc28f0fce76fea1f97e4c9225899b4ee",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xcd50f59edd184bcc4e44d7cc33f12cd469519dcf",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd094ad149fec37e8e5e950b196f3063f67e74bf1",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xd3abd40212649e9b100df7b26f6792ed91034a56",
+		"earnings": 195,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0xdae6ca75bb2afd213e5887513d8b1789122eaaea",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xdd01596074fa8e2a2f84d10d89090ae4543ea20b",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xe3cadc86b296e57c55dcb7c9e90936e7517237b3",
+		"earnings": 195,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xe5d12b67755d2d68dd69821fed9d7cc9c92fef33",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xe8459d4471b9abff09db0289ee1ac3270e3e260c",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xef8104c1f471c1995cb6f7276716e8b38dc1b9a7",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf22d91bd4e3319657273534fc3fe0c93c8f9f01d",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf6cdacd7fdb6a5bd70a649c549f767ff26afff20",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xf78a149be085ff02bc5de35578d52055a47a619e",
+		"earnings": 195,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xfab9a3d37999e12252b47468d2ffd4be15936012",
+		"earnings": 180,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xfea4661d76a9e559260cbf8c067e1f27b3e7d141",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3039bccbc088ce890ca70235a08e3299855d0ff7",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0x544e2df1ead3cdde014669f382d5bd0535567158",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5b2aaee0ff28416f40f4bb9225b36cd7043c696c",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0x65975c96debf1806f4eb9e216ad73dd12728d6a0",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9ab97f88b18e20582c7696aa2e4682e644cb50d3",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa96a0545fb49a64d3fcd24945dfda401ad2dc05c",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xad93ed32312f3b48322dc0e44a09d510d782fc68",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb9bc87e399e371100f83ffc51ed44c13daf576ce",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd45e49683cd150bdecd515f2dedb28235c0a3cd9",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe5d73547eda3f675da0e10e5888fe9b05de534b3",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xef889de3be0ead7d4b2074756740e5efb567581f",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf3ee519ac096cd9f75eb7a2aca94a8b57b14f464",
+		"earnings": 175,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf47ec7c789b52a82f5ca312244ddafd1a91ee55c",
+		"earnings": 167,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa03585bad4ca10f1b70805184bedb114f708417d",
+		"earnings": 167,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa93724c87709d84e1b2e6245cd283fd61fdc22c8",
+		"earnings": 139,
+		"reasons": "user"
+	},
+	{
+		"address": "0x000000877b44fba9f9bc559187b61c5146c104ee",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0150b0ec3c7b72879fbfdbdd79c18a8368b194e0",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x042b79eced8518e0357d790d4363ebb6fbfb1eb2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0481bc7034ba5fb05de99a5f3366c48868212499",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x068d9f17fbf0ccbf39bd8da421731fe86986bd3a",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0951df14fe6cf17b0c716826a3af7bd1bcf7f460",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0feeafec6397ea40a813958b4e8b8bb6857784bf",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x139776871ee95f55d20b10d9ba5a0385451066cd",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x1994959f8701fa7f83135dc0c8de2a694b7673c0",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x1b8134e1864f34933d2fac905cb4c637082282c4",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x1dcbb414bf6f332478ce801134a46c7f9e857cfc",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x1f4a979b77da15ab558858e1c8fe8a9949b8cb21",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x214f84f54d5b5b926cf54b15dc04bb74c721be77",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x21e2fb232e9fc401201e34176cb5eea01f28c854",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x223d415f44bce1df229e7fe37bca9881ab1ca362",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x25d1cbf24e549ccad81c2a5cab9e62c6be208920",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x27710c6d04d5127bb16bcc6e8fac548380a63f71",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2a280b76e41fb8cbb065a856d7a2560f95107332",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2a538000a53f38d89f37fa43a301cee2c0f9e331",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2bf034eccebc8cd60dab9c249b6c2996dcb7d8ec",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x2f33f5de63e8b0c6a539e5c51c334ce51a96f9f9",
+		"earnings": 139,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x2ffa60a14dd2eb156d64390d545b819e40fc87f2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x33b8e9ec30bf9d4c57a747bfea3dead35cdc7ceb",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x3665e13ec88d60a490eb8b34acab4a52d46ec8c2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x37655d125c02f7ea23124ff8b30a6a4e2a63aa64",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x3922315057742ee040e3c64987ea90c9cf9df7b5",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x3ac7a71b97183e3db7722c75eaa8df2c1a0badfc",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x3c9554077128f0a1fc2f43ed8a092762b43954b3",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x40e0a9f4028089fb22a9b55e376db3ca5897fdb8",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x41bd9ede67476deff711c1ddbd702b741dcc23d8",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x44df49b1185903f7f31c4edb49fa3a1a8f774123",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x49ed1afe35b048c51e74f88985192d12693d2c10",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x4c91cf4c27d95fcb2d134b6151508b8e570fa4f2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x514008917e06c9d35f55c5b2edf72bdda59fee06",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x574b7b5b67f46649461c7e283e0d4994a0425c6a",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x59129be4e238cf2308b2fa294e6655511cc266f3",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x62c72c74c8f8d0c94ff4e43293b3200e79e3712e",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x65b33b15a571507ae1780f32277fa66dd4d2ddb5",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x684f49bc1e04339d84f2370f14dc1491a3b4f113",
+		"earnings": 139,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6a85bf836a4a87ace31aa18d04761287555a178e",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x6c77b12bc12c6e9367f68130b7d0c9a2bddb2d8a",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x6d27f5d0bc18091ee12d23a08cd4e7b1f8593863",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x6da0a1784de1abdde1734ba37eca3d560bf044c0",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x7140640f5917847e39e4ba86d0853915117a1c5f",
+		"earnings": 139,
+		"reasons": "user"
+	},
+	{
+		"address": "0x757026efa43363770df21bb71e3f25ab82c7b68b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x7616e594f1832d0dc7aad3923967d76fd98416e2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x775b71539ac0f39c4607363c1dd2ffb76c4aba92",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x798f73c7df3932f5c429e618c03828627e51ed63",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x7ae341f72cf699391364ae2469568f0c4ab46e22",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x7d2498a05f2c6d6d53db8dfb5826e279012996eb",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8299b6f77b11af3040650cc77fd8a055ed6dd879",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x82e5290c810539e120193dfa8b1c1207bad89fab",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x86435a31859d642a5f17a06564a100ecd03e8654",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x87ae3929744864734cd009ad3be47d97fccb54d5",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x883ab2ae1bdda0531078b27dd45600193aba1f34",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8928b26de9ecc59cacdba095c6ed6237f48ddbd2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8a45152bcf6542811571849b88f18c7a0736677d",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8aca1290736eb50250d9ac02247303ac4b7d895a",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8de7a62f51448573e855f34cf9a5204c173d0a79",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x8e3a9866580d636eae9e7a3130751ac1c6a8a92f",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x91468ad86eaa593ea024beef58ebcb88ba5ad799",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x93e377d5397091d1ad985c0c187ab5f23740de24",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x93f9707adb26d98cfc6d73c8840425010afa968b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x974a344968786201a5f2e282014098f1333aa73b",
+		"earnings": 139,
+		"reasons": "user"
+	},
+	{
+		"address": "0x99744276eeb1ddbc42222376b8ca0a7b529b8ea1",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x9b338fddc58a3a28042ff3fc9ae3ecbcfe0de267",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa1aae46d0758e701f909141b22e396d3315b5250",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa218e4063a8c82e04ab7051f1e8d1574c67fed46",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa5855f4f40a409ffde3a171eb616926aec5d7b9c",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa5a0b7c3dd5dddbfbd51e56b9170bb6d1253788b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa666b6baf887e3d157d0618855d1c3b67229e0b7",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa6d5540bdacd14dbdbe170fa5cb60abb62cd7e2f",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa734ce642e2a20fac708b0d951bf61464aa72251",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa82f3532e363df3ff866e3c4d96f40859d957794",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xa848e0a67ddbe7c3d62c578cc1a6873af140dfd7",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xab02ca6151925a94fc24683694a812bc7bc8593b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xac6be0f5dec557f243d3f0ca3a6d6452e24a172c",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xae1b18ccbe2f8f4a28caa99ecb60429dd7813723",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xafd7a02d0e2b049a6524ee9270c7345462188018",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xb1d2a85010086939b04ef1458ed9c0103c541bd5",
+		"earnings": 139,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb7355b45bb88cd4ca8aadcd8e42084cd49b4f044",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xbb1490c5c4457bea5de2e662118d7555d40b1e21",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xbb6a1c648d7e88567f456382e0b4099f47c9b5cb",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xc55ea01bff091198cda9d91100500b70c532b1a5",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xc634eb62285f92356fbd2f383eb3ac4ebf40b29f",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xcae8cd58f1df6163f0c3f04c55dd3b3391e1e2ce",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xcd1344ced74e14e0d9e5ee4e689390626e1cfeb1",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xcedec45e06cbb9032625830c5ffb0cf3fad1cf67",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xcfb539b7b1974fd1dc3cec1f639c6affe649e1e7",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xd01a16a69020146184c435447b95b46f4b0fc1a0",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xd0b5d90435b36099a82a633447ed5383c4923625",
+		"earnings": 139,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd455712e43582134f101a0c686d26548b5438a3b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xd504b8251baaa93db421c558d4603fcf41f0681f",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xde04086babf2e92f9fae4153894756a393a89cfd",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xdf4f2bf9461b623dfde4e888da2bf3caee50e22e",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xe36230acfb2b70f3925c404f613bbf84c7a4854b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xe3b47836afd5579df7c667ac89fb0880bf6a6c09",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xe5e9e3cfc802687be5a13b943c5c60ad68c54787",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xe769d1a0b7915ef993c9c80976489bc31a53ce98",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xe83addbe930e1c242536717ff5d72df6e9264af1",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xee96703614ea707b0b99ecb55da74c04ff70f2ed",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xef46c5c01802b2d4f7567db3437bcf93a04877da",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf0f36a1cec7d7efdb27057b615cfd4fa5b732e3e",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf55e5f70b01d6b36175060627b62785b7236b80b",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf56345338cb4cddaf915ebef3bfde63e70fe3053",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf67a021191e25b2e78ad2bbce1e130173b443282",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf88a427c5bf29acf58497c0088cbf7ca9836b7b2",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf91ba1faf962b672a7ae12815afd2f432bc74186",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xf9d520e130b6f981604a2debebeb8eb849d7c994",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xfa8b1ac6879da8677df13102f8711b5d3cebe1c7",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xfce34de84d16850dc312905f664f8dcbcae24fb0",
+		"earnings": 139,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0xfe7841a7854a322494e9b9898066c003a006be2b",
+		"earnings": 111,
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x09622b15409c17f93a2ab5407c9e2d5a4cd26cb5",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x14869c6bf40bbc73e45821f7c28fd792151b3f9a",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x1e57180d6c5de5a54e95e57afe36a9770df9f9cf",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x31c856d412db23d21d63e164a8b560ace5201d09",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4e483558e4e59416eea246f643d78470a7d6d5a9",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x64c3e96f3433e66a7f198d586b779ebf197d63cd",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x84300dcc7ca9cf447e886fa17c11fa22557d1af0",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8eb53c061237fbb7565b396c6cd90b0ea630dc2e",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa55e8f346a2e48045f0418aae297aae166f614ce",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb5905dbe33bb3193ed25dbe86c9436981e7cf54c",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb81ecc7815a3ca0b7c6fdf4655558af01e84882c",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb9ccfc18b941a2cc51a956aa6c83360eb9d58de7",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbbbf82421aeb8280e6a756f5e6411e8aaaf013a2",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc5af5068a9a8cab2adc48e02ee8d2631fe6fc34d",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe164644e1e8bb14ba8aa19be1b78ec6cf22f7ca8",
+		"earnings": 111,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfcf7ac816bed302829847dc03bc1c03ba53c5c96",
+		"earnings": 84,
+		"reasons": "user"
+	},
+	{
+		"address": "0x07fbbc9377813b1e2552aeb718d0a9e0b4f673b2",
+		"earnings": 84,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2e12ee84a1fd7746b5b3c47424763a02132993e2",
+		"earnings": 84,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x3a410d310b4bad69aefc98342f8955c3e5a03086",
+		"earnings": 84,
+		"reasons": "user,leptons,protons"
+	},
+	{
+		"address": "0x6a1387e5fcab125579a873a4a65d5acd78d1c346",
+		"earnings": 84,
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x72b786ff9ef6d56a2b2dddcfff9bf78f353b145b",
+		"earnings": 84,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x807225694b85585d35ebaa7a70a4fb94060c038f",
+		"earnings": 84,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0x8b8306f4011b7a3dd8b6fa9ed693d9011f959347",
+		"earnings": 84,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xb278ada59e7af95a0c3de7699d8946b853f1e38a",
+		"earnings": 84,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xcb114805b901f7a9c38d5675272ef26459a7d805",
+		"earnings": 84,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xcbfaf6f71aec361905f409b9eecf8fffd7709e21",
+		"earnings": 69,
+		"reasons": "user,leptons"
+	},
+	{
+		"address": "0xe8ac281aae1dcc09202203f76822ac792c71404a",
+		"earnings": 62,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2c011a005ec67989e4daada1738b04623d787a2a",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x005e5cac6eb7637edf689403e01b86bda451ef61",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x073dd99852205750e283604a1b82b698878922c2",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0955fc4c758453d607bf18afe7f5295d81efff78",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x0a1f4f0845af497842956a48440960d27dcbf2c9",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x10031a8001d7ac0bf507cad46ff5e835c339d89a",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x104863f9b33223378c8fd36b08ace505e96d348e",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x106343316997bc5b7ccb596f7f8043d546e690b9",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x15cd260d0b81f39b55d1fb5940d141690edd88c8",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x17518effe921c5ff6e9afc9673315bc12fbb2f48",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x17de2c9c7889ed66c0b8fa0aa0c01c4908b73b75",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x19aa6f03a20764dd6ff26c873ecaa2a06f1fea89",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2170199e6ef61e8e4f9cbd899a2428127debdec8",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x227bd376ada887792c94dc0a1f6fcd0967f2686f",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x23a3c2d8d7d66ba740ec8ea8aa1ce00f1408134d",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x240cf70d8a648be133feb342d71e5e81c686e5f8",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x24d1e52e43ba0a98bdc7eda0fe0dcd96dd0f7821",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2595da20137f13c7397982362a38ee4d919c88f0",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x25beca2ca35db9d46ccab9e62f85f100bf0e8078",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x284b999d7de8026873dbf537b8e37d0f18f6bcc0",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2c5dca9915bdd37a6b347c0289c2ae7c2f802a71",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x2d5e03d9064a55b96d34290a176656398df91379",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x323846fdab86c33800bd0e436ee87bd9d89d8808",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x33eb89dad52c4ec6287866c0bee02692d827fdfd",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x34d4ecd77d6378ebdda1c62a38881e4587109181",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x363f725beb64d679f04213774f27cae4689b292c",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x366e138e84a707a3d53f2ab8b49abfb5a27cc430",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x37725c73789bdccb6068007d5af929a6fa7531e5",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3bbbcbc1c0b584f61ed746096e7b67c6bc2dac93",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3cd49c9ad5766fb4a19a42db15e516480dc58673",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3ea8a88dc7c5930c6ee57228a7bfe43a4f876fd3",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x4615c12a57b9acdd5e4d6aae100d952440cf2177",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x481e478d56bfe4826eba3e6833dc4c93f0ea9e71",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5038f9ffdfdeb78a497b68201571be1064081753",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x50c4c5fdfacfe896cd2182155114e99557b943e1",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x53303893a13dc5494cc6fe6225a3ed7cab117477",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x546c4b70ad85e31c24e6bd0d242ae1586d104e56",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5579718eba9128f7a9b6316e81c6f867b44754e3",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x57e215d52bd92b781a6270a26e82b54a20251950",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5802caaf72342c41d4c022f8cc6a471c532f1da1",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5bb03b51210132d2a00008eff9877052596721dd",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5cf8574c6a0ee0cd2069fa8c687dca5644637c01",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x5d46dde6a4770fc7127e8295cf8bf604cb134cdd",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x62dfd3d5087d6c28d1095bd1cd8d2307e9101c09",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x650f389e846494ace1156243c9781b22b153b182",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6b347a82fcac4e6a38d1fc40e3631bd8f9495e9f",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6b6ff42befcc6659fa759d7c476231eaab3cb292",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6dfff150bd18d8a99ab3cdcba88c15d73416d77a",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x73da8b89afe472ad7e74db571a03fa621e0da6e5",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x73dababdeddf0a3cdf7175c188ee622c5917c7e0",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x74720dc99cfd1e92d09dd8dfbc68018199660620",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x74ad66ac405e294706f46b00a8d9178767d20136",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x75b07e64161ace39d6eab54d25f25410ffd3d458",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x75b9b236801b273003beb57f823b434ae49f1be8",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x78ee57fc6470155f66cbc0128b7e478420024c62",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x79397ed27245c77d2c646da652a6628cac9f6b9b",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x794f2de03303afaf4a6202093f2bf49db3f4ca2a",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7a13cbe3005496ab1c9930ec005c411c812214cb",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7a60e93df6ed28c63d5e9283bd91b3c1dc3e613b",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7bd0fafe34a8b64afaf16166d644cdbb2b950aab",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7cea70ef11ebf576873063dcfcb9ca62e5c79822",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x7ed50757097d7433961bd7ff1fba3439bedaa788",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8063feb6705b20a4ac2c488489b6464fa7043f52",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x83e81d747529f0eb6145b149c438ab7f9bbd651c",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8445165437cb63affb2f143378d0ec63e0249582",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x85c7d244c6057d42c770ad85ae198fc5f47957fc",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8931544da49ebe4932c0e2d7cade839c1d037dca",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8a333a18b924554d6e83ef9e9944de6260f61d3b",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x8e3d1ec57c73fd731f53882f9bbb981af403164f",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x908e8e8084d660f8f9054aa8ad1b31380d04b08f",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x93e459a7fa7886ce52993a48445646a1342f1bf0",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x97a60da377d12542fa9b843abdb45473a927dfda",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9c37dd0dd114899d70ba2d15306f2e3c3127b8f0",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9cd22a6396a1335834a616a151a63538886f4356",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9e8adf1f004d81557827d507122765b4b2676c8e",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa2ae3fb0d22b11e790d4e810aceba538f41f903d",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa34c8558b22bced464a4c0cf222457bdc632d1d8",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa37ed0864991e305648858b4294ce8f5497155dc",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa9cd1f4f98a1ae23d5dc76958d3d0ef499df5c1f",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xad015f00d380da858c76d736ff0f266608db0d98",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xad808e43e9df338b8af0b5cf72732783c26778a8",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xae059b2bc5397ebfbf523873545edcae340bee5a",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb1a9adf97efd976492d768ddba9235c9c23db321",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbd18f7d198abd89576fc2bc165b87f3eae0aa97d",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xbf77ee618309e8d879b20c996292fa9ef8116290",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc1b0fa49c46ebfa755935184f65bc0e3a2da4584",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc5ab15e4254fa5824bd95e36d062e5d471a3f8ed",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc896fb2be8d3ea5611526343cf64ba7a9f89dba1",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc9d25b9a3496c776688833d6ccfe507ef4f41645",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xca7a6a53d5576102765a0281c723f863d881dc96",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xcb6589cde12845296469ba0aecd1402c63974168",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xcb68f56437f62e44d8b98f95448012baa2a8e4b7",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xcf31c47e2f336deaf1bdc578791244cc88e62c17",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xcf8f1f82d5939b90d5e7aab528adb7e65de51669",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd136c1a2cf7b033093e449f72062b835254ab23e",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd4169feb234bb57f848d31886b26164ac4b8ccce",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd6e61686063ce78b7f5d3744cf8a14671eac2d84",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xd7a07be84c3c555d2d5e02eceef8e5b0e3b57684",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe0b2add5c2d094008d014369ab6bc5c42cf3acad",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe216618b331f09740f80045c75bae9f295610a56",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe2ae0aacdba6f48101478b2e165d77505aee1021",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe4ac714caf48bd166aa03cfeb8633db0e69550b2",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe4c8efd2ed3051b22ea3eede1af266452b0e66e9",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe4e743a12188ed2bc9ba437834322269a7b7aa27",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xea2c3a53a679535d882ce8b2a603a5603349b036",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xea48339b167f86e1d91250f92213a66b2adb395e",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xee82d15265c15a00197693b361b7735a93b82e55",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf22eb39841130a09491663296dbdc9847938e0f6",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf57d76d36a94cdb66dc5dbdeac0327ec4d38eb05",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf7712f47bb2527b76a011656947b964c2f5733ba",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf7f189082878846c11a94ddac51c41afc7a7c772",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xf93fb248ece3fc5c4b14366e0f83fb52e93fa658",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfa48d5106239a1f915819391e123a031894246dd",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfc17b4011c116cd8d9298a556108a79a2bacbdd0",
+		"earnings": 56,
+		"reasons": "user"
+	},
+	{
+		"address": "0xff32826b3ec50ff93fcfff6f7ee32c1bbbcd27b0",
+		"earnings": 54,
+		"reasons": "user"
+	},
+	{
+		"address": "0xfb675dee3cdd950ded73b6b9700bbc3dada7e021",
+		"earnings": 39,
+		"reasons": "user"
+	},
+	{
+		"address": "0xa745067637cfea3fef6861135fad57ad38df3bfe",
+		"earnings": 32,
+		"reasons": "user"
+	},
+	{
+		"address": "0x10959240fb8ae9f541e90a952d73de1498bdcead",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0x9432f2a32e64d4196cdd6ab918c8d1956ec0aee5",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0x94a4c1c1e7e408621ea178aa09b91f899aedb722",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xffcf8fdee72ac11b5c542428b35eef5769c409f0",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3fbc53424c773bc75278e24a1b424e594accbb81",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xe039e67c4f0754c6d1bd493027fa0598f741674d",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0x11ededebf63bef0ea2d2d071bdf88f71543ec6fb",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0x6cd5b7aba1e610755ea101ae6197f97d4d24bb63",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb36d660d651bb3885ea779c005963bed5943955e",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xc2f909a161478847a8ae2705a0e210757e9608c8",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xdb2ce394a0a12e205e18f0ddc0453c03e30b7357",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xb1da34fe3e512fb6aff46f27935f002957b9dd0e",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0x3a29f2cf1120b9d65131079390eb8aef98c4425a",
+		"earnings": 36,
+		"reasons": "user"
+	},
+	{
+		"address": "0xef1e1d248adf7c4689b927d7b6f57965dd29d2b6",
+		"earnings": 36,
+		"reasons": "user"
+	}
+]
