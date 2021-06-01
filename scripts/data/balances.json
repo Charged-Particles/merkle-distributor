@@ -441,12 +441,7 @@
  },
  {
    "address": "0x6ecF67485948687FDBF6007BA241e4265ccEc359",
-   "earnings": 1118,
-   "reasons": ""
- },
- {
-   "address": "0xacda2babfb23f495f7cc0688f15134fb3129898f",
-   "earnings": 2795,
+   "earnings": 1369,
    "reasons": ""
  },
  {
@@ -1331,7 +1326,7 @@
  },
  {
    "address": "0xacda2babfb23f495f7cc0688f15134fb3129898f",
-   "earnings": 615,
+   "earnings": 3410,
    "reasons": ""
  },
  {
@@ -2496,11 +2491,6 @@
  },
  {
    "address": "0x5e37b7e461beace6f0049ee50f86aac66ec78344",
-   "earnings": 251,
-   "reasons": ""
- },
- {
-   "address": "0x6ecf67485948687fdbf6007ba241e4265ccec359",
    "earnings": 251,
    "reasons": ""
  },

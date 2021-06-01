@@ -30,9 +30,18 @@ const protonsJson = JSON.parse(fs.readFileSync('./scripts/data/protons.json', { 
 if (typeof protonsJson !== 'object') throw new Error('Invalid protons JSON')
 // console.log({protonsJson: JSON.stringify(protonsJson)})
 
+function bnToHex(bn:BigInt) {
+  let hex = BigInt(bn).toString(16);
+  if (hex.length % 2) {
+    hex = '0' + hex;
+  }
+  return `0x${hex}`;
+}
 
 const finalJson = balancesJson.map((obj:JsonInfo, key:number) => {
   const { address, earnings, reasons } = obj
+  const earningsBN = BigInt(earnings + '0'.repeat(18))
+  const earningsWei = bnToHex(earningsBN)
 
   const isGrants = !!(grantsJson.find((grant:AddressInfo) => (grant.address.toLowerCase() == address.toLowerCase())) || false)
   const isLeptons = !!(leptonsJson.find((lepton:AddressInfo) => (lepton.address.toLowerCase() == address.toLowerCase())) || false)
@@ -43,7 +52,7 @@ const finalJson = balancesJson.map((obj:JsonInfo, key:number) => {
   if (isLeptons) { reasonsArr.push('leptons') }
   if (isProtons) { reasonsArr.push('protons') }
 
-  return {address, earnings, reasons: reasonsArr.join(',')}
+  return {address, earnings: earningsWei, reasons: reasonsArr.join(',')}
 })
 
 // console.log({finalJson})
