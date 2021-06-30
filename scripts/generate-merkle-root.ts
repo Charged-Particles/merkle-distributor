@@ -21,7 +21,7 @@ if (typeof json !== 'object') throw new Error('Invalid JSON')
 
 // console.log(JSON.stringify(parseBalanceMap(json)))
 
-fs.openSync(`./scripts/${program.type}-merkle-root.json`, 'w+')
-fs.writeFileSync(`./scripts/${program.type}-merkle-root.json`, JSON.stringify(parseBalanceMap(json), null, '\t'), 'utf8')
+fs.openSync(`./scripts/data/${program.type}-merkle-root.json`, 'w+')
+fs.writeFileSync(`./scripts/data/${program.type}-merkle-root.json`, JSON.stringify(parseBalanceMap(json), null, '\t'), 'utf8')
 
 console.log('Done!')

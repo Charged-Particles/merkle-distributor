@@ -36,7 +36,7 @@ let finalJson;
 //
 
 if (program.type === 'ionx') {
-  const balancesJson = JSON.parse(fs.readFileSync('./scripts/data/balances.json', { encoding: 'utf8' }))
+  const balancesJson = JSON.parse(fs.readFileSync('./scripts/data/balances-test.json', { encoding: 'utf8' }))
   if (typeof balancesJson !== 'object') throw new Error('Invalid balances JSON')
   // console.log({balancesJson: JSON.stringify(balancesJson)})
 
@@ -81,12 +81,11 @@ if (program.type === 'vesting') {
   if (typeof vestingData !== 'object') throw new Error('Invalid vesting JSON')
   // console.log({vestingData: JSON.stringify(vestingData)})
 
-  finalJson = vestingData.map((obj:JsonInfo, key:number) => {
-    const { address, earnings, reasons } = obj
-    const earningsBN = BigInt(earnings + '0'.repeat(18))
+  finalJson = Object.keys(vestingData).map((key:string) => {
+    const earningsBN = BigInt(vestingData[key]) * BigInt('1000000000000000000')
     const earningsWei = bnToHex(earningsBN)
     const reasonsArr = ['user'];
-    return {address, earnings: earningsWei, reasons: reasonsArr.join(',')}
+    return {address: key, earnings: earningsWei, reasons: reasonsArr.join(',')}
   })
 }
 

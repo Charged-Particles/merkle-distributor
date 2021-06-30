@@ -11,7 +11,7 @@ program
 
 program.parse(process.argv)
 
-const file = readFileSync(`./scripts/${program.type}-merkle-root.json`).toString('utf-8')
+const file = readFileSync(`./scripts/data/${program.type}-merkle-root.json`).toString('utf-8')
 const allClaims = JSON.parse(file).claims
 
 const sortedAddresses: string[] = Object.keys(allClaims)

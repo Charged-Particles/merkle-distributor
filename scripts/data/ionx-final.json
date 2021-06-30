@@ -1,5 +1,55 @@
 [
 	{
+		"address": "0xBCD5E9BF2EE800C49Fe00Ed5e50662bde31B0DBa",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
+		"address": "0x9bB8b93E9E3eeb92B9C85A8058C27B962b82bAc3",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
+		"address": "0x0cb26F2B0e92661Abf21B80EEA49116Da8cEC6E8",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
+		"address": "0x6a1387E5FCaB125579a873A4A65D5ACd78d1C346",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user,grants,leptons"
+	},
+	{
+		"address": "0x757026eFA43363770df21bB71E3f25aB82C7B68B",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user,protons"
+	},
+	{
+		"address": "0x0a0Dd665B967930f2D824A5EaeBF7E6d3C823d68",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user,grants"
+	},
+	{
+		"address": "0x4B0af1ddF6Ba6A073A081eadB55bA893E515a817",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
+		"address": "0x5ef571668634ba372bA29F29DD840E0eF1a21D80",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
+		"address": "0xCc2193dB4370fA9dbf9F0Ce6ffa9d36243b45190",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
+		"address": "0x27607dF15Aa481D31dCEEdc2572ae083809f6995",
+		"earnings": "0x021e19e0c9bab2400000",
+		"reasons": "user"
+	},
+	{
 		"address": "0x9fdd726daf27dfd27332d7b5523288caead2d3ed",
 		"earnings": "0x025e3b4d11ed395c0000",
 		"reasons": "user"
@@ -3195,11 +3245,6 @@
 		"reasons": "user"
 	},
 	{
-		"address": "0x757026efa43363770df21bb71e3f25ab82c7b68b",
-		"earnings": "0x078903338be34c0000",
-		"reasons": "user,protons"
-	},
-	{
 		"address": "0x7616e594f1832d0dc7aad3923967d76fd98416e2",
 		"earnings": "0x078903338be34c0000",
 		"reasons": "user,protons"
@@ -3628,11 +3673,6 @@
 		"address": "0x3a410d310b4bad69aefc98342f8955c3e5a03086",
 		"earnings": "0x048dbbf2f2ecd00000",
 		"reasons": "user,leptons,protons"
-	},
-	{
-		"address": "0x6a1387e5fcab125579a873a4a65d5acd78d1c346",
-		"earnings": "0x048dbbf2f2ecd00000",
-		"reasons": "user,grants,leptons"
 	},
 	{
 		"address": "0x72b786ff9ef6d56a2b2dddcfff9bf78f353b145b",
