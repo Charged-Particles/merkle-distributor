@@ -2,3 +2,4 @@ node_modules/
 build/
 wrangler.toml
 scripts/.DS_Store
+contracts/.DS_Store
