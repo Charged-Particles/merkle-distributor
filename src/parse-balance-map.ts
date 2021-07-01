@@ -1,43 +1,26 @@
 import { BigNumber, utils } from 'ethers'
 import BalanceTree from './balance-tree'
+import {
+  AirdropMerkle,
+  AirdropOldFormat,
+  AirdropNewFormat
+} from './type-mapping'
 
 const { isAddress, getAddress } = utils
 
-// This is the blob that gets distributed and pinned to IPFS.
-// It is completely sufficient for recreating the entire merkle tree.
-// Anyone can verify that all air drops are included in the tree,
-// and the tree has no additional distributions.
-interface MerkleDistributorInfo {
-  merkleRoot: string
-  tokenTotal: string
-  claims: {
-    [account: string]: {
-      index: number
-      amount: string
-      proof: string[]
-      flags?: {
-        [flag: string]: boolean
-      }
-    }
-  }
-}
-
-type OldFormat = { [account: string]: number | string }
-type NewFormat = { address: string; earnings: string; reasons: string }
-
-export function parseBalanceMap(balances: OldFormat | NewFormat[]): MerkleDistributorInfo {
+export function parseBalanceMap(balances: AirdropOldFormat | AirdropNewFormat[]): AirdropMerkle {
   // if balances are in an old format, process them
-  const balancesInNewFormat: NewFormat[] = Array.isArray(balances)
+  const balancesInAirdropNewFormat: AirdropNewFormat[] = Array.isArray(balances)
     ? balances
     : Object.keys(balances).map(
-        (account): NewFormat => ({
+        (account): AirdropNewFormat => ({
           address: account,
           earnings: `0x${balances[account].toString(16)}`,
           reasons: '',
         })
       )
 
-  const dataByAddress = balancesInNewFormat.reduce<{
+  const dataByAddress = balancesInAirdropNewFormat.reduce<{
     [address: string]: { amount: BigNumber; flags?: { [flag: string]: boolean } }
   }>((memo, { address: account, earnings, reasons }) => {
     if (!isAddress(account)) {

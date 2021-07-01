@@ -1,6 +1,7 @@
 import { program } from 'commander'
 import fs from 'fs'
 import { parseBalanceMap } from '../src/parse-balance-map'
+import { parseVestingMap } from '../src/parse-vesting-map'
 
 program
   .version('0.0.0')
@@ -21,7 +22,13 @@ if (typeof json !== 'object') throw new Error('Invalid JSON')
 
 // console.log(JSON.stringify(parseBalanceMap(json)))
 
+const currentMonth = 0  // 0-based
+
+let jsonData = {}
+if (program.type === 'ionx') jsonData = parseBalanceMap(json)
+if (program.type === 'vesting') jsonData = parseVestingMap(json, currentMonth)
+
 fs.openSync(`./scripts/data/${program.type}-merkle-root.json`, 'w+')
-fs.writeFileSync(`./scripts/data/${program.type}-merkle-root.json`, JSON.stringify(parseBalanceMap(json), null, '\t'), 'utf8')
+fs.writeFileSync(`./scripts/data/${program.type}-merkle-root.json`, JSON.stringify(jsonData, null, '\t'), 'utf8')
 
 console.log('Done!')

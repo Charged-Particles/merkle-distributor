@@ -1,5 +1,6 @@
 import { program } from 'commander'
 import fs from 'fs'
+import { AddressInfo, AirdropSourceFormat, VestingSourceFormat } from '../src/type-mapping'
 
 program
   .version('0.0.0')
@@ -10,15 +11,6 @@ program
 
 program.parse(process.argv)
 
-interface JsonInfo {
-  address: string
-  earnings: string
-  reasons: string
-}
-
-interface AddressInfo {
-  address: string
-}
 
 function bnToHex(bn:BigInt) {
   let hex = BigInt(bn).toString(16);
@@ -53,7 +45,7 @@ if (program.type === 'ionx') {
   // console.log({protonsJson: JSON.stringify(protonsJson)})
 
 
-  finalJson = balancesJson.map((obj:JsonInfo, key:number) => {
+  finalJson = balancesJson.map((obj:AirdropSourceFormat, key:number) => {
     const { address, earnings, reasons } = obj
     const earningsBN = BigInt(earnings + '0'.repeat(18))
     const earningsWei = bnToHex(earningsBN)
@@ -77,20 +69,8 @@ if (program.type === 'ionx') {
 //
 
 if (program.type === 'vesting') {
-  const vestingData = JSON.parse(fs.readFileSync('./scripts/data/vesting-test.json', { encoding: 'utf8' }))
-  if (typeof vestingData !== 'object') throw new Error('Invalid vesting JSON')
-  // console.log({vestingData: JSON.stringify(vestingData)})
-
-  finalJson = Object.keys(vestingData).map((key:string) => {
-    const earningsBN = BigInt(vestingData[key]) * BigInt('1000000000000000000')
-    const earningsWei = bnToHex(earningsBN)
-    const reasonsArr = ['user'];
-
-
-    return {address: key, earnings: earningsWei, reasons: reasonsArr.join(',')}
-  })
+  throw new Error('Nothing to Generate for Vesting; JSON already in correct format.')
 }
-
 
 
 // console.log({finalJson})

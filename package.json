@@ -46,11 +46,12 @@
     "generate-merkle-root:ionx": "ts-node scripts/generate-merkle-root.ts --input scripts/data/ionx-final.json --type ionx",
     "split-merkle-root:ionx": "ts-node scripts/split-merkle-root.ts --type ionx",
     "verify-merkle-root:ionx": "ts-node scripts/verify-merkle-root.ts --input scripts/data/ionx-merkle-root.json",
+    "run-all:ionx": "yarn generate-json:ionx && yarn generate-merkle-root:ionx && yarn split-merkle-root:ionx && yarn verify-merkle-root:ionx",
 
-    "generate-json:vesting": "ts-node scripts/generate-json.ts --type vesting",
     "generate-merkle-root:vesting": "ts-node scripts/generate-merkle-root.ts --input scripts/data/vesting-final.json --type vesting",
     "split-merkle-root:vesting": "ts-node scripts/split-merkle-root.ts --type vesting",
     "verify-merkle-root:vesting": "ts-node scripts/verify-merkle-root.ts --input scripts/data/vesting-merkle-root.json",
+    "run-all:vesting": "yarn generate-merkle-root:vesting && yarn split-merkle-root:vesting && yarn verify-merkle-root:vesting",
 
     "prepublishOnly": "yarn test"
   }
