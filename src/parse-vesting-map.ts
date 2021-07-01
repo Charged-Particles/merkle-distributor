@@ -8,6 +8,14 @@ import {
 
 const { isAddress, getAddress } = utils
 
+function bnToHex(bn:BigInt) {
+  let hex = BigInt(bn).toString(16);
+  if (hex.length % 2) {
+    hex = '0' + hex;
+  }
+  return `0x${hex}`;
+}
+
 
 export function parseVestingMap(balances: VestingSourceFormat[], currentMonth: number): VestingMerkle {
 
@@ -24,7 +32,7 @@ export function parseVestingMap(balances: VestingSourceFormat[], currentMonth: n
     if (memo[parsed]) throw new Error(`Duplicate address: ${parsed}`)
 
     const monthAmounts = [month1, month2, month3, month4, month5, month6, month7, month8, month9, month10, month11, month12, month13, month14, month15, month16, month17, month18]
-    const parsedNum = BigNumber.from(monthAmounts[currentMonth])
+    const parsedNum = BigNumber.from(monthAmounts[currentMonth] + '0'.repeat(18))
     if (parsedNum.gt(0)) {
       const flags:VestingDataFlags = {}
 
