@@ -1211,7 +1211,7 @@
 	},
 	{
 		"address": "0x14897356c5cad74381f76e19cfb6ece2ae484245",
-		"earnings": "0x287eb51e3970cc0000",
+		"earnings": "0x2870d46785c9680000",
 		"reasons": "user"
 	},
 	{
@@ -4322,6 +4322,11 @@
 	{
 		"address": "0xef1e1d248adf7c4689b927d7b6f57965dd29d2b6",
 		"earnings": "0x01f399b1438a100000",
+		"reasons": "user"
+	},
+	{
+		"address": "0x6d46b37708dA7Ed4E5C4509495768Fecd3D17C01",
+		"earnings": "0x0de0b6b3a7640000",
 		"reasons": "user"
 	}
 ]

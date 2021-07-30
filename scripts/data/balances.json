@@ -1211,7 +1211,7 @@
  },
  {
    "address": "0x14897356c5cad74381f76e19cfb6ece2ae484245",
-   "earnings": 747,
+   "earnings": 746,
    "reasons": ""
  },
  {
@@ -4322,6 +4322,11 @@
  {
    "address": "0xef1e1d248adf7c4689b927d7b6f57965dd29d2b6",
    "earnings": 36,
+   "reasons": ""
+ },
+ {
+   "address": "0x6d46b37708dA7Ed4E5C4509495768Fecd3D17C01",
+   "earnings": 1,
    "reasons": ""
  }
 ]
